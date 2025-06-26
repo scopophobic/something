@@ -4,8 +4,8 @@ let width, height;
 let width_metre, height_metre;
 
 const metre = 10;
-const gravity = 0.5;
-const friction = 0.05;
+const gravity = 9.8;
+const friction = 1;
 const T = 10;
 
 const ballList = [];
