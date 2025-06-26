@@ -4,7 +4,7 @@ Started off trying to make a basic cloth simulation from scratch (no external li
 At this point, I have no idea what I just made — but it looks cool and it was fun clicking stuff :)
 
 What it does:
-- Simulates cloth using a grid of connected points (weirdly behaving :) )
+- Simulates cloth using a grid of connected points (weirdly behaving cloth)
 - You can:
   • Drag the mouse to attract points
   • Swipe to cut the cloth
